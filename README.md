@@ -1,2 +1,1 @@
-# .github
-Profile
+# DNO-inc
